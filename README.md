@@ -1,2 +1,2 @@
 # 4BIFlags
-Demo GIT repository
+Demo repository for using flags
